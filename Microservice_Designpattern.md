@@ -17,6 +17,18 @@ https://www.eraser.io/
 Off cycle Release
 Hot Fix Release
 
+CQRS pattern
+Side Car Pattern
+
+
+The Saga Pattern in Microservices:
+https://www.youtube.com/watch?v=C0rGwyJkDTU
+
+ByteMonk: SIde Car Pattern
+https://www.youtube.com/watch?v=sh2nwXJLDkE&list=PLJq-63ZRPdBsPWE24vdpmgeRFMRQyjvvj&index=12
+
+
+
 
 ## Argo CD:
 https://www.youtube.com/watch?v=igg8hIVD24c
