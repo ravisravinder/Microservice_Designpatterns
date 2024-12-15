@@ -11,3 +11,7 @@ Optional Features
 https://www.youtube.com/@CodeDecode/playlists
 
 https://www.youtube.com/watch?v=jPGuAxJkKZo&list=PLyHJZXNdCXsdvaw5eGW9kMnbll88B8kG2&index=10
+
+## Argo CD:
+https://www.youtube.com/watch?v=igg8hIVD24c
+
