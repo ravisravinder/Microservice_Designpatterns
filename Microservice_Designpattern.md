@@ -15,3 +15,6 @@ https://www.youtube.com/watch?v=jPGuAxJkKZo&list=PLyHJZXNdCXsdvaw5eGW9kMnbll88B8
 ## Argo CD:
 https://www.youtube.com/watch?v=igg8hIVD24c
 
+## IMP Deployment Strategies
+https://www.youtube.com/watch?v=_NN57qXRgew&list=PLyHJZXNdCXsdvaw5eGW9kMnbll88B8kG2&index=12
+
